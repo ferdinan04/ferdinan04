@@ -31,7 +31,7 @@ Apasionado de la tecnología, disfrutando mi transición laboral como QA Enginee
 
 * :heartbeat: Me encanta tests de API y tests funcionales
 
-* :mailbox: ¿Quieres contactar conmigo? Puedes escribirme a mi correo: ferdinan_rp@hotmail.com
+* :mailbox: ¿Quieres contactar conmigo? [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdinan-rebaza/)
 
 ### 🛠️ Lenguajes y herramientas :
 
