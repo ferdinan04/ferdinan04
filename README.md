@@ -1,6 +1,5 @@
-## Hi there 👋
-
 <!--
+## Hi there 👋
 **ferdinan04/ferdinan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img decoding="async" src="https://github.com/ferdinan04/ferdinan04/blob/main/Linkedinbanner.png" width="800"/>
+</div>
