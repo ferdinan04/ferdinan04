@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/ferdinan04/ferdinan04/blob/main/Linkedinbanner.png" width="800"/>
-</div>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdinan-rebaza/)
+
+</div>
