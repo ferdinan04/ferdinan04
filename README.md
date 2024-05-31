@@ -31,4 +31,13 @@ Apasionado de la tecnología, disfrutando mi transición laboral como QA Enginee
 
 * :heartbeat: Me encanta tests de API y tests funcionales
 
-* :mailbox: ¿Quieres contactar conmigo? [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdinan-rebaza/)
+* :mailbox: ¿Quieres contactar conmigo? Puedes escribirme a mi correo: ferdinan_rp@hotmail.com
+
+### 🛠️ Lenguajes y herramientas :
+
+<div id="header" align="left">
+    <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>
+    <img decoding="async" src="https://img.shields.io/badge/MySQL-6DB33F?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql"/>
+  </a>
+</div>
