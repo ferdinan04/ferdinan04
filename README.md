@@ -23,17 +23,17 @@ Here are some ideas to get you started:
   <img decoding="async" src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-### 👨‍💻 Sobre mí :
+### 👨‍💻 About Me :
 
-Apasionado de la tecnología, disfrutando mi transición laboral como QA Engineer
+Passionate about technology, enjoying my career transition as a QA Engineer
 
-* :seedling: Estoy estudiando :blue_book: y practicando :computer: SQL, Python, Selenium
+* :seedling: I am studying :blue_book: and practicing :computer: SQL, Python, Selenium
 
-* :heartbeat: Me encanta tests de API y tests funcionales
+* :heartbeat:  I love API testing and functional testing
 
-* :mailbox: ¿Quieres contactar conmigo? [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdinan-rebaza/)
+* :mailbox: Want to get in touch with me? [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ferdinan-rebaza/)
 
-### 🛠️ Lenguajes y herramientas :
+### 🛠️ Languages and Tools:
 
 <div id="header" align="left">
     <img decoding="async" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
